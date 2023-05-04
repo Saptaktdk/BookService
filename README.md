@@ -1,2 +1,2 @@
-# Filmbook
-This a Spring Boot CRUD application using Firebase that mimics a movie app backend
+# BookService
+This a Spring Boot CRUD application using mySql that mimics a bookstore service
